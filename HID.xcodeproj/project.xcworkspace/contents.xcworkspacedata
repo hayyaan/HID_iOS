@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/hayyaan/dev/ocha/hid/Humanitarian.ID/HID.xcodeproj">
+      location = "self:/Users/hayyaan/dev/ocha/HID_Cordova_wrapper/hidapp/platforms/ios/HumanitarianID TestApp.xcodeproj">
    </FileRef>
 </Workspace>

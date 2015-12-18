@@ -1,0 +1,80 @@
+2015-08-05 13:59:09.211 HumanitarianID TestApp[68897:5851325] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-05 13:59:09.214 HumanitarianID TestApp[68897:5851325] Multi-tasking -> Device: YES, App: YES
+2015-08-05 13:59:09.232 HumanitarianID TestApp[68897:5851325] Unlimited access to network resources
+2015-08-05 13:59:09.545 HumanitarianID TestApp[68897:5851325] [CDVTimer][keyboard] 0.060022ms
+2015-08-05 13:59:09.707 HumanitarianID TestApp[68897:5851325] [CDVTimer][splashscreen] 161.452949ms
+2015-08-05 13:59:09.707 HumanitarianID TestApp[68897:5851325] [CDVTimer][TotalPluginStartup] 162.115037ms
+2015-08-05 13:59:09.847 HumanitarianID TestApp[68897:5851325] Resetting plugins due to page load.
+2015-08-05 13:59:10.070 HumanitarianID TestApp[68897:5851325] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F5D25D93-B73B-4554-BA24-B840E9D5879F/data/Containers/Bundle/Application/A1D5F7AF-D85B-4A59-9AF8-237C59F7D593/HumanitarianID%20TestApp.app/www/index.html
+2015-08-05 13:59:10.111 HumanitarianID TestApp[68897:5851325] Resetting plugins due to page load.
+2015-08-05 13:59:11.848 HumanitarianID TestApp[68897:5851325] Finished load of: https://app.humanitarian.id/#/
+2015-08-05 16:17:22.764 HumanitarianID TestApp[3773:51115] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-05 16:17:22.766 HumanitarianID TestApp[3773:51115] Multi-tasking -> Device: YES, App: YES
+2015-08-05 16:17:22.782 HumanitarianID TestApp[3773:51115] Unlimited access to network resources
+2015-08-05 16:17:23.130 HumanitarianID TestApp[3773:51115] [CDVTimer][keyboard] 0.064015ms
+2015-08-05 16:17:23.298 HumanitarianID TestApp[3773:51115] [CDVTimer][splashscreen] 167.922974ms
+2015-08-05 16:17:23.298 HumanitarianID TestApp[3773:51115] [CDVTimer][TotalPluginStartup] 168.694973ms
+2015-08-05 16:17:23.420 HumanitarianID TestApp[3773:51115] Resetting plugins due to page load.
+2015-08-05 16:17:23.623 HumanitarianID TestApp[3773:51115] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F5D25D93-B73B-4554-BA24-B840E9D5879F/data/Containers/Bundle/Application/D6E2D101-F763-49D8-9F47-CB87EAF4AB25/HumanitarianID%20TestApp.app/www/index.html
+2015-08-05 16:17:23.689 HumanitarianID TestApp[3773:51115] Resetting plugins due to page load.
+2015-08-05 16:17:25.860 HumanitarianID TestApp[3773:51115] Finished load of: https://app.humanitarian.id/#/
+2015-08-05 16:19:20.234 HumanitarianID TestApp[4131:53260] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-05 16:19:20.235 HumanitarianID TestApp[4131:53260] Multi-tasking -> Device: YES, App: YES
+2015-08-05 16:19:20.237 HumanitarianID TestApp[4131:53260] Unlimited access to network resources
+2015-08-05 16:19:20.306 HumanitarianID TestApp[4131:53260] [CDVTimer][keyboard] 0.046015ms
+2015-08-05 16:19:20.319 HumanitarianID TestApp[4131:53260] [CDVTimer][splashscreen] 12.544990ms
+2015-08-05 16:19:20.319 HumanitarianID TestApp[4131:53260] [CDVTimer][TotalPluginStartup] 13.077974ms
+2015-08-05 16:19:20.494 HumanitarianID TestApp[4131:53260] Resetting plugins due to page load.
+2015-08-05 16:19:20.620 HumanitarianID TestApp[4131:53260] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F5D25D93-B73B-4554-BA24-B840E9D5879F/data/Containers/Bundle/Application/FD040BD2-DF3D-4542-B940-B4D23870A58E/HumanitarianID%20TestApp.app/www/index.html
+2015-08-05 16:19:20.691 HumanitarianID TestApp[4131:53260] Resetting plugins due to page load.
+2015-08-05 16:19:21.886 HumanitarianID TestApp[4131:53260] Finished load of: https://app.humanitarian.id/#/
+2015-08-06 14:51:47.688 HumanitarianID TestApp[16792:382914] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-06 14:51:47.689 HumanitarianID TestApp[16792:382914] Multi-tasking -> Device: YES, App: YES
+2015-08-06 14:51:47.690 HumanitarianID TestApp[16792:382914] Unlimited access to network resources
+2015-08-06 14:51:47.757 HumanitarianID TestApp[16792:382914] [CDVTimer][keyboard] 0.048995ms
+2015-08-06 14:51:47.777 HumanitarianID TestApp[16792:382914] [CDVTimer][splashscreen] 20.599008ms
+2015-08-06 14:51:47.777 HumanitarianID TestApp[16792:382914] [CDVTimer][TotalPluginStartup] 21.162987ms
+2015-08-06 14:51:47.897 HumanitarianID TestApp[16792:382914] Resetting plugins due to page load.
+2015-08-06 14:51:48.041 HumanitarianID TestApp[16792:382914] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F5D25D93-B73B-4554-BA24-B840E9D5879F/data/Containers/Bundle/Application/A017B4A9-0CAE-4A3D-8D18-F5561A4BC7BB/HumanitarianID%20TestApp.app/www/index.html
+2015-08-06 14:51:48.107 HumanitarianID TestApp[16792:382914] Resetting plugins due to page load.
+2015-08-06 14:52:48.301 HumanitarianID TestApp[16951:384580] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-06 14:52:48.301 HumanitarianID TestApp[16951:384580] Multi-tasking -> Device: YES, App: YES
+2015-08-06 14:52:48.303 HumanitarianID TestApp[16951:384580] Unlimited access to network resources
+2015-08-06 14:52:48.401 HumanitarianID TestApp[16951:384580] [CDVTimer][keyboard] 0.062048ms
+2015-08-06 14:52:48.418 HumanitarianID TestApp[16951:384580] [CDVTimer][splashscreen] 16.507983ms
+2015-08-06 14:52:48.418 HumanitarianID TestApp[16951:384580] [CDVTimer][TotalPluginStartup] 16.946018ms
+2015-08-06 14:52:48.596 HumanitarianID TestApp[16951:384580] Resetting plugins due to page load.
+2015-08-06 14:52:48.722 HumanitarianID TestApp[16951:384580] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F5D25D93-B73B-4554-BA24-B840E9D5879F/data/Containers/Bundle/Application/6B75D359-EB6C-4D4F-833D-4C8A467CBA5A/HumanitarianID%20TestApp.app/www/index.html
+2015-08-06 14:52:48.804 HumanitarianID TestApp[16951:384580] Resetting plugins due to page load.
+2015-08-06 14:52:50.508 HumanitarianID TestApp[16951:384580] Finished load of: http://hid:dev@dev.auth.568elmp02.blackmesh.com/
+2015-08-06 14:53:12.366 HumanitarianID TestApp[16951:384580] Resetting plugins due to page load.
+2015-08-06 14:53:13.268 HumanitarianID TestApp[16951:384580] Finished load of: http://hid:dev@dev.auth.568elmp02.blackmesh.com/login
+2015-08-06 14:53:28.311 HumanitarianID TestApp[16951:384580] CDVWebViewDelegate: Unexpected didFinish while waiting for load start.
+2015-08-06 14:53:32.482 HumanitarianID TestApp[16951:384580] CDVWebViewDelegate: Navigation started when state=1
+2015-08-06 14:53:32.483 HumanitarianID TestApp[16951:384580] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-08-06 14:53:32.483 HumanitarianID TestApp[16951:384580] Resetting plugins due to page load.
+2015-08-06 14:53:32.674 HumanitarianID TestApp[16951:384580] Finished load of: http://dev.auth.568elmp02.blackmesh.com/admin
+2015-08-06 14:53:36.414 HumanitarianID TestApp[16951:384580] Resetting plugins due to page load.
+2015-08-06 14:53:37.096 HumanitarianID TestApp[16951:384580] Finished load of: http://dev.auth.568elmp02.blackmesh.com/
+2015-08-06 14:53:40.942 HumanitarianID TestApp[16951:385111] Terminating since there is no system app.
+2015-09-17 15:48:42.420 HumanitarianID TestApp[73179:4919768] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F61B6A28-13DB-41F1-B432-6B13C5BAE01A/data/Containers/Data/Application/E8937E61-0A7B-4A17-B258-AE07F85D0771/Library/Cookies/com.ionicframework.hidapp714447.binarycookies
+2015-09-17 15:48:42.541 HumanitarianID TestApp[73179:4919768] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-17 15:48:42.542 HumanitarianID TestApp[73179:4919768] Multi-tasking -> Device: YES, App: YES
+2015-09-17 15:48:42.552 HumanitarianID TestApp[73179:4919768] Unlimited access to network resources
+2015-09-17 15:48:42.742 HumanitarianID TestApp[73179:4919768] [CDVTimer][keyboard] 0.113010ms
+2015-09-17 15:48:42.991 HumanitarianID TestApp[73179:4919768] [CDVTimer][splashscreen] 249.000967ms
+2015-09-17 15:48:42.991 HumanitarianID TestApp[73179:4919768] [CDVTimer][TotalPluginStartup] 249.783993ms
+2015-09-17 15:48:43.275 HumanitarianID TestApp[73179:4919768] Resetting plugins due to page load.
+2015-09-17 15:48:43.541 HumanitarianID TestApp[73179:4919768] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F61B6A28-13DB-41F1-B432-6B13C5BAE01A/data/Containers/Bundle/Application/8D093CF8-E7B2-418E-B4C6-88FDB813689F/HumanitarianID%20TestApp.app/www/index.html
+2015-09-17 15:48:43.585 HumanitarianID TestApp[73179:4919768] Resetting plugins due to page load.
+2015-09-17 15:48:43.844 HumanitarianID TestApp[73179:4920386] NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-09-17 15:48:43.848 HumanitarianID TestApp[73179:4919768] Failed to load webpage with error: An SSL error has occurred and a secure connection to the server cannot be made.
+2015-09-17 16:37:45.781 HumanitarianID TestApp[74353:4957751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F61B6A28-13DB-41F1-B432-6B13C5BAE01A/data/Containers/Data/Application/C43B1D7A-2CD8-4D18-9E54-0B5189594B1D/Library/Cookies/com.ionicframework.hidapp714447.binarycookies
+2015-09-17 16:37:45.971 HumanitarianID TestApp[74353:4957751] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-17 16:37:45.972 HumanitarianID TestApp[74353:4957751] Multi-tasking -> Device: YES, App: YES
+2015-09-17 16:37:45.981 HumanitarianID TestApp[74353:4957751] Unlimited access to network resources
+2015-09-17 16:37:46.161 HumanitarianID TestApp[74353:4957751] [CDVTimer][keyboard] 0.091016ms
+2015-09-17 16:37:46.402 HumanitarianID TestApp[74353:4957751] [CDVTimer][splashscreen] 240.529001ms
+2015-09-17 16:37:46.402 HumanitarianID TestApp[74353:4957751] [CDVTimer][TotalPluginStartup] 241.284013ms
+2015-09-17 16:37:46.614 HumanitarianID TestApp[74353:4957751] Resetting plugins due to page load.
+2015-09-17 16:37:46.886 HumanitarianID TestApp[74353:4957751] Finished load of: file:///Users/hayyaan/Library/Developer/CoreSimulator/Devices/F61B6A28-13DB-41F1-B432-6B13C5BAE01A/data/Containers/Bundle/Application/EFAA846A-5F7C-4EC8-976E-17987FDD2ED8/HumanitarianID%20TestApp.app/www/index.html
