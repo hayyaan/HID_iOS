@@ -54,25 +54,25 @@
     },
     "installed_plugins": {
         "cordova-plugin-crosswalk-webview": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "com.ionic.keyboard": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "sk.kcorp.cordova.ios-security": {
-            "PACKAGE_NAME": "com.ionicframework.hidapp714447"
+            "PACKAGE_NAME": "org.unocha.hid"
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "org.unocha.hid"

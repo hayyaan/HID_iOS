@@ -498,7 +498,7 @@
 					"-weak-lSystem",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ionicframework.hidapp714447;
+				PRODUCT_BUNDLE_IDENTIFIER = org.unocha.hid;
 				PRODUCT_NAME = HID;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -539,7 +539,7 @@
 					"-weak-lSystem",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ionicframework.hidapp714447;
+				PRODUCT_BUNDLE_IDENTIFIER = org.unocha.hid;
 				PRODUCT_NAME = HID;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
